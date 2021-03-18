@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main(int argc, char** argv)
+{
+puts("Name-Ashish ranjan");
+puts("Branch-Civil engineering");
+puts("class roll no-2014014");
+puts("college-guru nanak dev engineering college");
+puts("Hometown-Biharsharif");
+return0;
+}
